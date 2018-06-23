@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+
+        android:id="@+id/action_settings"
+        android:icon="@drawable/icon_title_bar_plus"
+        android:iconTintMode="screen"
+        android:orderInCategory="100"
+
+        android:title="资料"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_msg"
+        android:icon="@drawable/icon_title_bar_search"
+        android:iconTintMode="screen"
+        android:orderInCategory="99"
+        android:title="搜索"
+        app:showAsAction="always" />
+</menu>

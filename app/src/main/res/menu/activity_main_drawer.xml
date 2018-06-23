@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mail_folder_type_inbox"
+            android:icon="@drawable/mail_folder_type_inbox"
+            android:tooltipText="1"
+            android:title="收件箱" />
+        <item
+            android:id="@+id/nav_mail_folder_type_flaged"
+            android:icon="@drawable/mail_folder_type_flaged"
+            android:tooltipText="1"
+            android:title="红旗邮件" />
+        <item
+            android:icon="@drawable/mail_folder_type_draft"
+            android:tooltipText="1"
+            android:title="草稿箱" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+        <item
+            android:icon="@drawable/mail_folder_type_out"
+            android:tooltipText="1"
+            android:title="已发送" />
+    </group>
+
+
+</menu>

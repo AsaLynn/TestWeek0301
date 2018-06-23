@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test3Week1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">右侧菜单</string>
+    <string name="title_activity_drawer_layout1">DrawerLayout1Activity</string>
+    <string name="action_msg">个人消息</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+</resources>
